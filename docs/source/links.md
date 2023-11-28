@@ -1,8 +1,5 @@
 # 相关链接
 
-## 其他笔记
-
-
 ## 官方链接
 
 Lean 官方网站：
@@ -13,4 +10,3 @@ Lean 官方网站：
 
 Zulip 社区：[leanprover.zulipchat.com](https://leanprover.zulipchat.com)
 
-Lean 学习文档：

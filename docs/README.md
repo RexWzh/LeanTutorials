@@ -1,12 +1,17 @@
 # Lean 学习教程
 
-Lean 学习资料和笔记的汇总，顶部选择“笔记与翻译”可以查看目前已做的文档翻译和笔记。
+Lean 学习资料和笔记的汇总，目前内容：
+  * [初探 Lean](https://lean.lookeng.cn/glimpse)
+  * [定理证明](https://lean.lookeng.cn/tp-lean)
+  * [学习手册](https://lean.lookeng.cn/official)
+  * [函数式编程](https://lean.lookeng.cn/fp-lean)
+  * [元编程](https://lean.lookeng.cn/meta)
 
 ## Lean 简介
 
 Lean 是微软研究院基于依赖类型理论(dependent type theory)开发的交互式定理证明器，同时它也是一门编程语言，并且设计为一般性目的的编程语言。
 
-当被视为编程语言时，Lean 是一种具有**依赖类型**的**严格**的**纯函数式**语言(strict pure functional with dependent types)。具体地说，
+当被视为编程语言时，Lean 是一种具有 **依赖类型** 的 **严格** 的 **纯函数式** 语言(strict pure functional with dependent types)。具体地，
 1. 严格：LEAN 与其他编程语言一样地使用函数
 2. 函数式：函数是一等公民，函数可以作为参数传递，也可以作为返回值返回
 3. 纯函数式：没有边际效应(side-effects)，函数执行结果是确定的，没有副作用
